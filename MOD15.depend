@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672577247 source:c:\users\asus\documents\a.semester 3\struktur data\praktikum\mod15\tree.cpp
+	"Tree.h"
+
+1672576646 c:\users\asus\documents\a.semester 3\struktur data\praktikum\mod15\tree.h
+	<iostream>
+
+1672577394 source:c:\users\asus\documents\a.semester 3\struktur data\praktikum\mod15\main.cpp
+	<iostream>
+	"Tree.h"
+
